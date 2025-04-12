@@ -18,7 +18,7 @@ Landing page da Coca-Cola desenvolvida com **React**, **TypeScript** e **Sass**,
 
 ## 📸 Preview
 
-> ⚠️ *Adicione aqui uma imagem de preview da landing page real quando desejar.*
+> ⚠️ *....em breve*
 
 ![Preview do site](https://via.placeholder.com/1000x500.png?text=Insira+um+preview+da+Landing+Page)
 
