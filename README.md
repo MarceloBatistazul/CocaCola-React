@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🥤 Coca-Cola React Landing Page
 
 ![CocaCola Banner](https://upload.wikimedia.org/wikipedia/commons/4/44/Coca-Cola_logo.svg)
