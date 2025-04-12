@@ -1,8 +1,6 @@
 
 # 🥤 Coca-Cola React Landing Page
 
-![CocaCola Banner](https://upload.wikimedia.org/wikipedia/commons/4/44/Coca-Cola_logo.svg)
-
 Landing page da Coca-Cola desenvolvida com **React**, **TypeScript** e **Sass**, trazendo uma experiência visual moderna, responsiva e elegante. Ideal para portfólios, estudos e demonstração de habilidades em front-end.
 
 ---
